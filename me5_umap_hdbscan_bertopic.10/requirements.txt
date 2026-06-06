@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+pandas
+numpy
+sentence-transformers
+bertopic
+umap-learn
+hdbscan
+scikit-learn
+openpyxl
+torch
+tqdm
